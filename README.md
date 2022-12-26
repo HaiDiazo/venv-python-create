@@ -18,3 +18,9 @@ python3.9 -m venv venv
 deactivate
 ```
 - enjoy :tada:
+
+# Extra
+For installing package for faster you can use requirements.txt, and write all package with version into that .txt. After write all package in .txt, you can use command in below
+```
+pip install -r requirements.txt
+```
